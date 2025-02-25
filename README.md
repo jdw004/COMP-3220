@@ -4,7 +4,7 @@
 - Auburn University
 
 🔹Project 1 - Ruby Lexer<br />
-🔸 Project 2 - TBD<br />
+🔸 Project 2 - Ruby Parser<br />
 🔺 Project 3 - TBD<br />
 🔸 Project 4 - TBD<br />
 🔹Project 5 - TBD<br />
