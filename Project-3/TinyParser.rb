@@ -1,5 +1,5 @@
 #
-#  Parser Class with Extra Credit Part 1 - correcting operand order
+#  Parser Class
 #
 load "TinyLexer.rb"
 load "TinyToken.rb"
