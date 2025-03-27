@@ -7,4 +7,4 @@
 🔸 Project 2 - Ruby Parser<br />
 🔺 Project 3 - Ruby Parser Part 2<br />
 🔸 Project 4 - Racket Interpreter<br />
-🔹Project 5 - Ada Sub-Types<br />
+🔹Project 5 - Ada Subtypes<br />
