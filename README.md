@@ -6,5 +6,5 @@
 🔹Project 1 - Ruby Lexer<br />
 🔸 Project 2 - Ruby Parser<br />
 🔺 Project 3 - Ruby Parser Part 2<br />
-🔸 Project 4 - TBD<br />
+🔸 Project 4 - Racket Interpreter<br />
 🔹Project 5 - TBD<br />
